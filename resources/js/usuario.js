@@ -71,7 +71,7 @@ $('#agregarUsuario').on("click", function(){
 			});
 
 	//fin del clic de agregar usuario
-})
+});
 
 $("#username").on("change", function(){
 	var valor= $(this).val();
